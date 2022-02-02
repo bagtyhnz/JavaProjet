@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaProjet.iml" filepath="$PROJECT_DIR$/JavaProjet.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP-review/OOP-review.iml" filepath="$PROJECT_DIR$/OOP-review/OOP-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop-review/oop-review.iml" filepath="$PROJECT_DIR$/oop-review/oop-review.iml" />
     </modules>
   </component>
 </project>
